@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-xk7y90.sengtoto78ils.cfd/sitemap.xml
